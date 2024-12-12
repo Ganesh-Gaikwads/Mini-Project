@@ -1,3 +1,3 @@
-# Epic-views - a responsive design 
-
-This is my first Mini-project . which is an website for photographer portfolio using HTML/CSS
+Epic-views - a responsive design 
+# Mini-project 
+An website for photographer portfolio using HTML/CSS
